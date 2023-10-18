@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+/* styles.css */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.rtl-text {
+    direction: rtl;
+    text-align: right; /* If you want text alignment to be right as well */
+}
